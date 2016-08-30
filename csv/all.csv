@@ -1,0 +1,26 @@
+cod,nume,tinta,2015-01-01,2015-02-01,2015-03-01,2015-04-01,2015-05-01,2015-06-01,2015-07-01,2015-08-01,2015-09-01,2015-10-01,2015-11-01,2015-12-01,2016-01-01,2016-02-01,2016-03-01,2016-04-01,2016-05-01,2016-06-01,2016-07-01,2016-08-01
+sp_nn,Neonatologie - Amenajare spatii (unitati arbitrare),100,20,20,0,20,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+echi_nn,Neonatologie - Achizitie echipamente (unitati arbitrare),100,0,0,10,10,5,5,5,10,50,0,5,0,0,0,0,0,0,0,0,0
+int_t_nn,Neonatologie - Media lunara a internarilor,40,0,0,0,0,0,0,0,0,0,51,44,58,62,46,50,46,50,44,60,55
+trsf_nn,Neonatologie - Media transferurilor lunare,3,5,8,7,6,5,6,6,7,5,1,0,0,0,0,0,0,2,1,3,1
+int_ti_nn,Neonatologie - Numar internari terapie intensiva,cumulat,0,0,0,0,0,0,0,0,0,15,28,24,22,19,22,20,20,18,24,19
+int_pm_nn,Neonatologie - Numar internari prematuri,cumulat,0,0,0,0,0,0,0,0,0,36,16,34,40,27,28,26,30,26,36,36
+eco_nn,Neonatologie - Numar ecografii,cumulat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,19,47,50,66,54
+inci_nn,Neonatologie - Numar utilizari incubator inchis,cumulat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,2,1,1,1
+incd_nn,Neonatologie - Numar utilizari incubator deschis,cumulat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,3,1,4,2
+sp_g,Ob-Gin - Amenajare spatii (unitati arbitrare),100,20,20,0,20,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+echi_g,Ob-Gin - Achizitie echipamente ginecologie (unitati arbitrare),100,0,0,5,5,5,15,10,10,45,0,5,0,0,0,0,0,0,0,0,0
+react_g,Ob-Gin - Achizitie reactivi ginecologie (unitati arbitrare),100,0,0,0,0,0,0,0,90,0,0,10,0,0,0,0,0,0,0,0,0
+pi_g,Ob-Gin - Numar paciente inscrise in proiect,1500,0,0,0,0,0,0,0,0,0,173,197,163,122,72,220,188,151,156,74,0
+eco_g,Ob-Gin - Numar ecografii,cumulat,0,0,0,0,0,0,0,0,0,0,0,0,158,185,195,214,174,143,157,171
+col_g,Ob-Gin - Numar colposcopii,cumulat,0,0,0,0,0,0,0,0,0,0,7,4,4,8,3,5,3,5,4,5
+tb_g,Ob-Gin - Numar teste screening (coagulare si imunologie),1500,0,0,0,0,0,0,0,0,0,173,197,138,122,72,220,188,151,156,83,0
+tg_g,Ob-Gin - Numar teste genetice screening,1500,0,0,0,0,0,0,0,0,0,0,0,0,20,258,103,120,164,153,40,229
+tgc_g,Ob-Gin - Numar teste genetice confirmare,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,6,5,9,30
+torc_g,Ob-Gin - Numar teste TORC,500,0,0,0,0,0,0,0,0,0,173,197,127,3,0,0,0,0,0,0,0
+sp_h,Hematologie - Amenajare spatii (unitati arbitrare),100,20,20,0,20,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+echi_m_h,Hematologie - Achizitie echipamente (unitati arbitrare),100,0,0,0,0,0,0,25,10,10,0,5,30,0,20,0,0,0,0,0,0
+react_m_h,Hematologie - Achizitie reactivi teste moleculare (unitati arbitrare),100,0,0,0,0,0,0,20,10,10,0,0,50,0,0,0,5,0,0,5,0
+tg_h,Hematologie - Numar teste moleculare,175,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,4,16,10,40,36
+react_c_h,Hematologie - Achizitie reactivi hematologie citometrie (unitati arbitrare),100,0,0,0,0,0,0,25,10,0,0,0,25,20,10,0,5,0,0,5,0
+mf_h,Hematologie - Numar mediu lunar de markeri testati per caz,20,0,0,0,0,0,0,0,0,0,9,9,9,11,11,15,15,15,18,20,20
